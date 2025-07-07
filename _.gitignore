@@ -1,0 +1,22 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore cache, compiled files, temp files
+__pycache__/
+*.pyc
+
+# Ignore model weights
+*.pth
+*.pt
+*.pkl
+*.h5
+*.ckpt
+
+# Ignore dataset folder (optional if too large)
+data/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore logs
+*.log
