@@ -207,7 +207,7 @@ If you use this code, please cite our manuscript:
   author    = {Shenoy, Prithvi and Ramyashree and Raghavendra, S and Anoop, B N},
   journal   = {The Visual Computer},
   year      = {2025},
-  publisher = {Springer},
+  publisher = {},
   note      = {Manuscript submitted for publication}
 }
 ```
