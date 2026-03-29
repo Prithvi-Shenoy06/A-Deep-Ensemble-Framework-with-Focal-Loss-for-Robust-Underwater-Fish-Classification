@@ -204,12 +204,13 @@ If you use this code, please cite our manuscript:
 ```bibtex
 @article{shenoy2025underwater,
   title     = {A Deep Ensemble Framework with Focal Loss for Robust Underwater Fish Classification},
-  author    = {Shenoy, Prithvi and Ramyashree and Raghavendra, S and Anoop, B N},
+  author    = {Shenoy, Prithvi and Ramyashree and Raghavendra, S. and Anoop, B. N.},
   journal   = {The Visual Computer},
   year      = {2025},
-  publisher = {},
-  note      = {Manuscript submitted for publication}
+  publisher = {Springer},
+  note      = {Manuscript submitted for publication. Code: https://doi.org/10.5281/zenodo.19315919}
 }
+
 ```
 
 > **DOI:** *(To be updated upon acceptance)*
